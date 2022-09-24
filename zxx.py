@@ -882,7 +882,6 @@ def tools():
 ############################################################################################## layer():
 def zxx():  
   clear()                                                                  
-    stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦══════════ZXX DDOS ATTACK════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"        Welcome To The My Tool By Atu 208 "+Fore.LIGHTCYAN_EX  +"       ║\n")
     stdout.write("             "+Fore.LIGHTCYAN_EX+"║ "+Fore.LIGHTWHITE_EX   +"          Type [help] to see the Commands    "+Fore.LIGHTCYAN_EX +"       ║\n")
